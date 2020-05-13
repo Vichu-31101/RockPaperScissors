@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="start">Start</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="rounds">Rounds</string>
+    <string name="rock">rock</string>
+    <string name="paper">paper</string>
+    <string name="textview">TextView</string>
+    <string name="scissors">scissors</string>
+    <string name="player">player</string>
+    <string name="round">Round</string>
+    <string name="vs">VS</string>
+    <string name="_0">0</string>
+    <string name="single_player">single-player\ </string>
+    <string name="rock_paper_scissors">ROCK PAPER SCISSORS</string>
+    <string name="home">home</string>
+</resources>
